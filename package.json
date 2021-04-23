@@ -16,6 +16,8 @@
     "@ng-bootstrap/ng-bootstrap": "^9.1.0",
     "bootstrap": "^4.6.0",
     "core-js": "^3.10.1",
+    "jasmine-core": "^3.7.1",
+    "jasmine-marbles": "^0.8.1",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "rxjs": "^6.6.7",
